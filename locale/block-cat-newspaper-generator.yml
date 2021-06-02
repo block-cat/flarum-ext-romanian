@@ -1,0 +1,11 @@
+block-cat-newspaper-generator:
+  forum:
+    composer:
+      newspaper_modal:
+        newspaper_generator_title: 'Generator de ziare'
+        newspaper_name: 'Numele ziarului'
+        headline: 'Titlul articolului'
+        author: 'Autorul'
+        picture: 'Imagine'
+        article_content: 'Conținutul articolului'
+        submit_button: 'Generează'
